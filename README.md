@@ -18,16 +18,16 @@ See my [Hardware List](HARDWARE.md)
 - All USB ports at 3.x speed
 - iMessage
 - App Store
+- iCloud
 - Facetime
-- APFS
 - Handoff
 - Bluetooth & Wi-Fi (via Fenvi T919 PCI adapter)
-- Unlock with Apple Watch (didn't checked)
 - Airdrop
 - AirPlay
 - Continuity
 - Power Nap
 - NVRAM
+- Sidecar
 
 
 ##### Not Working (as expected)
@@ -41,6 +41,7 @@ See my [Hardware List](HARDWARE.md)
 
 ##### Not Yet Tested
 - FileVault
+- Unlock with Apple Watch
 
 
 ### Step By Step Instructions

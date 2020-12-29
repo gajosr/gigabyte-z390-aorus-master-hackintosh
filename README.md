@@ -1,6 +1,6 @@
 # Hackintosh Big Sure 11.1 guide for Gigabyte Z390 Aorus Master (OpenCore)
 
-This build is "Vanilla" forked from orginal cmer https://github.com/cmer/gigabyte-z390-aorus-master-hackintosh. I used [this guide](https://dortania.github.io/OpenCore-Desktop-Guide/) to build my own configuration.
+This build is "Vanilla" forked from orginal cmer https://github.com/cmer/gigabyte-z390-aorus-master-hackintosh. I used [this guide](https://dortania.github.io/OpenCore-Desktop-Guide/) to build my own OpenCore configuration.
 
 ### Hardware
 

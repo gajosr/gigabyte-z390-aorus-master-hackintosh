@@ -1,8 +1,6 @@
-Looking for my original Clover guide? [It's still available right here](https://github.com/cmer/gigabyte-z390-aorus-master-hackintosh/tree/96fe5217b6bfb59f9157848feac44443b87b890f).
+# Hackintosh Big Sure 11.1 guide for Gigabyte Z390 Aorus Master (OpenCore)
 
-# Hackintosh Catalina Guide for Gigabyte Z390 Aorus Master (OpenCore)
-
-This build is "Vanilla". I used [this guide](https://dortania.github.io/OpenCore-Desktop-Guide/) as a starting point.
+This build is "Vanilla" forked from orginal cmer https://github.com/cmer/gigabyte-z390-aorus-master-hackintosh. I used [this guide](https://dortania.github.io/OpenCore-Desktop-Guide/) to build my own configuration.
 
 ### Hardware
 
@@ -13,7 +11,7 @@ See my [Hardware List](HARDWARE.md)
 ### What's Working/What's Not
 
 ##### Working
-- Ethernet
+- Ethernet (I don't use it)
 - Onboard Audio (including digital audio)
 - APFS
 - Sleep/Wake
@@ -23,16 +21,11 @@ See my [Hardware List](HARDWARE.md)
 - Facetime
 - APFS
 - Handoff
-- Bluetooth & Wi-Fi (via Broadcom adapter)
-- Unlock with Apple Watch
+- Bluetooth & Wi-Fi (via Fenvi T919 PCI adapter)
+- Unlock with Apple Watch (didn't checked)
 - Airdrop
 - AirPlay
 - Continuity
-- ALL DRMs:
-  - iTunes Movies (FairPlay 1.x)
-  - Netflix (FairPlay 2.x/3.x)
-  - Some Amazon Prime content, but not all. (FairPlay 2.x/3.x)
-  - Apple TV+ (FairPlay 4.x)
 - Power Nap
 - NVRAM
 
@@ -40,7 +33,11 @@ See my [Hardware List](HARDWARE.md)
 ##### Not Working (as expected)
 - Built-in WIFI. This will very likely never work since it is the new Intel CNVi that macOS doesn't support.
 - Onboard Bluetooth. I disabled it (HS14) because I have a natively supported Broadcom BCM94360CS2 WIFI/BT adapter anyways.
-
+- DRMs - DRM isn't supported for Safari 14 and Big Sur via WhateverGreen's DRM patches at this moment:
+  - iTunes Movies (FairPlay 1.x)
+  - Netflix (FairPlay 2.x/3.x)
+  - Some Amazon Prime content, but not all. (FairPlay 2.x/3.x)
+  - Apple TV+ (FairPlay 4.x)
 
 ##### Not Yet Tested
 - FileVault
@@ -48,7 +45,7 @@ See my [Hardware List](HARDWARE.md)
 
 ### Step By Step Instructions
 
-My old Clover guide used to have Step by Step instructions but I decided not to write such instructions here for two reasons: it's a pain to keep up to date, and I literally just followed the [OpenCore Desktop Guide](https://dortania.github.io/OpenCore-Desktop-Guide/). When in doubt, just look at my KEXTs, drivers and config.list for guidance.
+This guide is forked from original cmer guide, I followed the [OpenCore Desktop Guide](https://dortania.github.io/OpenCore-Desktop-Guide/) guide to build my own config.plist. When in doubt, just look at my KEXTs, drivers and config.list for guidance.
 
 
 ### USB Port Map & SSDT

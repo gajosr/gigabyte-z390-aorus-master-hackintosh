@@ -18,10 +18,10 @@ Here's the USB port map for the Gigabyte Aorus Z390 Master I have discovered usi
  * **HS14:** Bluetooth/Wifi
 
 ## Ports I kept enabled:
+ * HS01/SS01
  * HS03/SS03
  * HS04/SS04
  * HS05/SS05
- * HS06/SS06
  * HS09/SS09
  * HS10/SS10
  * HS11
@@ -32,7 +32,7 @@ Here's the USB port map for the Gigabyte Aorus Z390 Master I have discovered usi
 
 Or in other words, I disabled:
  * both yellow USB3 ports next to the HDMI port
- * the Front USB-C header
+ * the Rear USB-C header
  * HS2 (unknown)
  * Bluetooth/Wifi
 

@@ -32,7 +32,7 @@ See my [Hardware List](HARDWARE.md)
 
 ##### Not Working (as expected)
 - Built-in WIFI. This will very likely never work since it is the new Intel CNVi that macOS doesn't support.
-- Onboard Bluetooth. I disabled it (HS14) because I have a natively supported Broadcom BCM94360CS2 WIFI/BT adapter anyways.
+- Onboard Bluetooth. I disabled it (HS14) because I have a natively supported Broadcom BCM94360CD WIFI/BT adapter anyways.
 - DRMs - DRM isn't supported for Safari 14 and Big Sur via WhateverGreen's DRM patches at this moment:
   - iTunes Movies (FairPlay 1.x)
   - Netflix (FairPlay 2.x/3.x)

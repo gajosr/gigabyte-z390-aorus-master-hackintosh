@@ -1,7 +1,7 @@
 # My Hackintosh Hardware
 
-- Gigabyte Z390 Aorus Master (bios F11L)
-- Intel i9 9900k
+- Gigabyte Z390 Aorus Master (BIOS v. F11L)
+- Intel Core i9-9900K
 - be quiet! Dark Rock Pro 4 120/135mm
 - Fractal Design Define 7 Black TG Light Tint
 - 64GB - 2 x HyperX 32GB (2x16GB) 3200MHz CL16 Fury RGB

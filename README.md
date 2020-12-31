@@ -31,8 +31,8 @@ See my [Hardware List](HARDWARE.md)
 
 
 ##### Not Working (as expected)
-- Built-in WIFI. This will very likely never work since it is the new Intel CNVi that macOS doesn't support.
-- Onboard Bluetooth. I disabled it (HS14) because I have a natively supported Broadcom BCM94360CD WIFI/BT adapter anyways.
+- Built-in WIFI. There is OpenIntelWireless project but didn't checked it yet https://github.com/OpenIntelWireless/itlwm.
+- Onboard Bluetooth. I disabled it (HS14) because I have a natively supported Broadcom BCM94360CD WIFI/BT adapter.
 - DRMs - DRM isn't supported for Safari 14 and Big Sur via WhateverGreen's DRM patches at this moment
 
 ##### Not Yet Tested

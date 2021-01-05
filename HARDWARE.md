@@ -4,7 +4,7 @@
 - Intel Core i9-9900K
 - be quiet! Dark Rock Pro 4 120/135mm
 - Fractal Design Define 7 Black TG Light Tint
-- 64GB - 2 x HyperX 32GB (2x16GB) 3200MHz CL16 Fury RGB
+- 64GB - HyperX (4x16GB) 3200MHz CL16 Fury RGB
 - 1 x Sapphire Radeon RX 5700 XT NITRO+ 8GB GDDR6
 - 1 x Samsung 500GB M.2 PCIe NVMe 970 EVO (Windows 10)
 - 1 x Samsung 500GB M.2 PCIe NVMe 970 EVO (macOS Installation)

@@ -28,7 +28,7 @@ See my [Hardware List](HARDWARE.md)
 - Power Nap
 - NVRAM
 - Sidecar
-- DRMs - DRM isn't supported for Safari 14 and Big Sur via WhateverGreen's DRM patches at this moment but now using `defaults write com.apple.AppleGVA gvaForceAMDKE -boolean yes` that forces AMD DRM decoder for streaming services (like Apple TV and iTunes movie streaming).
+- DRMs - DRM isn't supported for Safari 14 and Big Sur via WhateverGreen's DRM patches at this moment but now using `defaults write com.apple.AppleGVA gvaForceAMDKE -boolean yes` that forces AMD DRM decoder for streaming services (like Apple TV and iTunes movie streaming). More details [here] (https://github.com/acidanthera/WhateverGreen/blob/master/Manual/FAQ.Chart.md) 
 
 ##### Not Working (as expected)
 - Built-in WIFI. There is OpenIntelWireless project but didn't checked it yet https://github.com/OpenIntelWireless/itlwm.

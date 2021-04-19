@@ -57,3 +57,4 @@ You are welcome to use my EFI folder. However, make sure you set the following:
 - SystemSerialNumber
 - SystemUUID
 - MLB
+- calculate your own slide velue in boot-args if necessary (https://dortania.github.io/OpenCore-Install-Guide/extras/kaslr-fix.html)
